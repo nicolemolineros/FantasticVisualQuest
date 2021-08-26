@@ -39,7 +39,7 @@ public:
       //timer010 = 0.09; //for screenshot!
       glPushMatrix();
       if (shader) shader->begin();
-        //glRotatef(timer010*360, 0.5, 1.0f, 0.1f);
+        glRotatef(timer010*360, 0.5, 1.0f, 0.1f);
       glTranslatef(0.0, -0.5, 0.5);
       glPushMatrix();
         glPushMatrix();
