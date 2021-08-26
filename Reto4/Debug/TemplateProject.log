@@ -1,0 +1,11 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  main.cpp
+\\Mac\Home\Desktop\COMP G\Reto4\main.cpp(50,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+\\Mac\Home\Desktop\COMP G\Reto4\main.cpp(56,59): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+\\Mac\Home\Desktop\COMP G\Reto4\main.cpp(56,48): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+\\Mac\Home\Desktop\COMP G\Reto4\main.cpp(56,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+\\Mac\Home\Desktop\COMP G\Reto4\main.cpp(57,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+\\Mac\Home\Desktop\COMP G\Reto4\main.cpp(59,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+\\Mac\Home\Desktop\COMP G\Reto4\main.cpp(66,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+\\Mac\Home\Desktop\COMP G\Reto4\main.cpp(71,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  TemplateProject.vcxproj -> \\Mac\Home\Desktop\COMP G\Reto4\Debug\TemplateProject.exe
