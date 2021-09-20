@@ -1,0 +1,6 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  main.cpp
+C:\Users\FELIPE\Documents\Universidad\computacion Grafica\OPGMallasObj\main.cpp(59,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\FELIPE\Documents\Universidad\computacion Grafica\OPGMallasObj\main.cpp(71,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\FELIPE\Documents\Universidad\computacion Grafica\OPGMallasObj\main.cpp(75,1): warning C4305: 'argument': truncation from 'double' to 'float'
+  TemplateProject.vcxproj -> C:\Users\FELIPE\Documents\Universidad\computacion Grafica\OPGMallasObj\Debug\TemplateProject.exe
